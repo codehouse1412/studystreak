@@ -18,4 +18,4 @@ jobs:
         uses: actions/setup-java@v4
         with:
           distribution: 'temurin'
-          ja
+          java version: '17'
