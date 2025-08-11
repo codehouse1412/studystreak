@@ -1,0 +1,2 @@
+rootProject.name = 'StreakPomodoro'
+include ':app'
